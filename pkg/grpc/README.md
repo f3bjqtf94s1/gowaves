@@ -36,3 +36,5 @@ If you want to regenerate the code from updated schemas:
 
 2. Run `make proto` from the root of gowaves repo
 
+
+<!-- Auto-update: 2025-10-14T05:44:01.598163 -->
